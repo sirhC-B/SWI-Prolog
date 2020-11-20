@@ -1,0 +1,36 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "database-1.craaqqhfw6qg.us-east-1.rds.amazonaws.com",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Mitarbeiter",
+            "group": "Datenbanken",
+            "database": "mitarbeiter",
+            "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "database-1.craaqqhfw6qg.us-east-1.rds.amazonaws.com",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "DrBiberson",
+            "username": "postgres",
+            "database": "drbiberson",
+            "group": "Datenbanken"
+        },
+        {
+            "previewLimit": 50,
+            "server": "database-1.craaqqhfw6qg.us-east-1.rds.amazonaws.com",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Grundlagen CC",
+            "database": "gcc_boesener",
+            "username": "postgres"
+        }
+    ]
+}
